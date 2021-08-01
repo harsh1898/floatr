@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.main{
+    border:1px solid #354876;
+    background-color: #354876;
+    color:white;
+    width:20rem;
+    height: 35rem;
+    position: absolute;
+    left: 50%;
+    margin-left:-10rem;
+    top:50%;
+    margin-top:-17.5rem;
+}
+.main p{
+    text-align: center;
+    margin-top:2rem;
+}
+.main2{
+    margin-top:4rem;
+    
+}
+.main2 input[type="button"]
+{
+    /* border:1px solid #354876; */
+    background-color: #354876;
+   width:16rem;
+   height: 9rem;
+    color: white;
+    border-color:#36508d ;
+    background-color: #36508d;
+    border-radius: 1rem ;
+    font-size: 1rem;
+   margin-left: 1.8rem;
+}
